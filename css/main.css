@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    background-image: url('/img/GALAXIA.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#planet-selector {
+    margin-bottom: 20px;
+}
+#planet {
+    width: 100px;
+    height: 100px;
+    left: 60%;
+    background-image: url('');
+    background-size: cover;
+    position: absolute;
+    border-radius: 50%;
+    top: 200px; 
+  }
